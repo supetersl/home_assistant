@@ -1,0 +1,19 @@
+[cmdline]
+0=
+
+[Dir Hist New Right Panel]
+0=/home/pi
+
+[Dir Hist New Left Panel]
+0=/home/pi/Downloads
+1=/home/pi/Documents
+2=/home/pi
+3=/home
+4=/usr/local/etc
+5=/usr/local/bin
+6=/usr/local
+7=/usr
+8=/run
+9=/lib
+10=/
+11=/etc
